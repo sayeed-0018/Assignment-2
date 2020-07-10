@@ -1,0 +1,95 @@
+.background{
+    background-color: #F0FFF0;
+}
+.margin{
+    margin-top: 150px;
+}
+    
+
+.navbar-brand img{
+   width: 150px;
+}
+.ready{
+    color: red;
+}
+.any{
+    color: #21B573;
+}
+.get-button{
+    background-color: #21B573;
+    padding: 5px 20px;
+    border-radius: 33px;
+    border: none;
+    color: white !important;
+    
+}
+.sign-button{
+    color: white !important
+}
+.motherbox{
+    background-color: #F8FFFB;
+    height: 200px;
+}
+.motherbox-child{
+    background-color: white;
+    box-shadow: 5px 5px 30px lightgrey;
+}
+.smallimg{
+        width: 100px;
+        padding: 25px;
+        
+}
+h2{
+    text-align: center;
+    margin-bottom: 70px;
+    font-weight: 700;
+}
+.padding{
+    padding: 20px;
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px lightgrey;
+}
+.course-small-img{
+    width: 25px;
+    height: 25px;
+    margin-top: 10px;
+    
+}
+.card-text{
+        margin: 15px 5px;
+        font-size: 14px
+}
+.course-sm-img2{
+        margin-left: 80px;
+}
+.cardft-margin{
+    margin-left: 12px;
+}
+.man-img{
+    width: 120px;
+    
+}
+.lorem{
+ 
+font-style: normal;
+font-weight: 600px;
+font-size: 17px;
+line-height: 30px;
+}
+.last-color{
+    background-color: #282531;
+    color: white;
+}
+.margin-last{
+    margin-top: 90px;
+}
+.for-li{
+    font-size: 22px;
+    font-weight: 700;
+}
+.for-footer{
+    text-align: center;
+     color: white
+}
